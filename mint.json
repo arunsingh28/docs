@@ -6,6 +6,18 @@
     "light": "/logo/logo.svg"
   },
   "favicon": "/logo/logo.svg",
+  "seo": {
+    "indexHiddenPages": true
+  },
+  "feedback": {
+    "raiseIssue": true,
+    "suggestEdit": true,
+    "thumbsRating": true
+  },
+  "metadata": {
+    "title": "Leafdraft Documentation",
+    "description": "Leafdraft is a powerful API documentation tool that helps you create beautiful, interactive documentation for your APIs."
+  },
   "colors": {
     "primary": "#122862",
     "light": "#0753c9",
