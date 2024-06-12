@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Leafdraft",
   "logo": {
-    "dark": "/logo/leafdraft.svg",
-    "light": "/logo/leafdraft.svg"
+    "dark": "/logo/logo.svg",
+    "light": "/logo/logo.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/logo.svg",
   "colors": {
     "primary": "#122862",
     "light": "#0753c9",
