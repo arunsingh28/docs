@@ -2,27 +2,27 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Leafdraft",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/leafdraft.svg",
+    "light": "/logo/leafdraft.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#122862",
+    "light": "#0753c9",
+    "dark": "#008cff",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#122862",
+      "to": "#0753c9"
     }
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "Contact us",
       "url": "mailto:hello@leafdraft.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "App",
+    "name": "Get Started",
     "url": "https://app.leafdraft.com"
   },
   "tabs": [
