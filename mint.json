@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Leafdraft",
+  "name": "OpticalAI",
   "logo": {
-    "dark": "/logo/logo.svg",
-    "light": "/logo/logo.svg"
+    "dark": "/logo/opticalai.png",
+    "light": "/logo/opticalai.png"
   },
-  "favicon": "/logo/logo.svg",
+  "favicon": "/logo/opticalai.png",
   "seo": {
     "indexHiddenPages": true
   },
@@ -15,8 +15,8 @@
     "thumbsRating": true
   },
   "metadata": {
-    "title": "Leafdraft Documentation",
-    "description": "Leafdraft is a powerful API documentation tool that helps you create beautiful, interactive documentation for your APIs."
+    "title": "OpticalAI Documentation",
+    "description": "OpticalAI is a powerful API documentation tool that helps you create beautiful, interactive documentation for your APIs."
   },
   "colors": {
     "primary": "#122862",
@@ -30,12 +30,12 @@
   "topbarLinks": [
     {
       "name": "Contact us",
-      "url": "mailto:hello@leafdraft.com"
+      "url": "mailto:hello@getopticalai.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Get Started",
-    "url": "https://app.leafdraft.com"
+    "url": "https://app.getopticalai.com"
   },
   "tabs": [
     {
@@ -47,7 +47,7 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://docs.leafdraft.com/"
+      "url": "https://docs.getopticalai.com/"
     },
     {
       "name": "Community",
@@ -57,7 +57,7 @@
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://blog.leafdraft.com"
+      "url": "https://blog.getopticalai.com"
     }
   ],
   "navigation": [
@@ -90,8 +90,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/leafdraft",
-    "github": "https://github.com/leafdraft",
-    "linkedin": "https://www.linkedin.com/company/leafdraft"
+    "x": "https://x.com/opticalai",
+    "github": "https://github.com/opticalai",
+    "linkedin": "https://www.linkedin.com/company/opticalai"
   }
 }
